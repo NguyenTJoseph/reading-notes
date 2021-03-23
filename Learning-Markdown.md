@@ -6,4 +6,6 @@ Markdown is a way to style texts on a page. It controls the formatting of the pa
 You can use Markdown to **bold** text. 
 
 This can be done by:
-**/(text)**/
+```
+**(text)**
+```
