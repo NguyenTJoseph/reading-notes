@@ -17,3 +17,4 @@ This can be done by:
 ## Heading 2
 ##### Smallest Heading
 ```
+More Markdown syntax can be found [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
