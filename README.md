@@ -11,4 +11,4 @@ _Growth mindset_ is the belief that through work and a strong will you can devel
 - [ ] Stay focused and work through problems rather than getting distracted 
 - [ ] Make a concious effort 
 
-https://github.com/3lueHippo
+[To my GitHub](https://github.com/3lueHippo)
