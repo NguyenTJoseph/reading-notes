@@ -6,3 +6,5 @@ _Growth mindset_ is the belief that through work and a strong will you can devel
 - [ ] Take small steps and take your time when solving problems :astronaut:
 - [ ] Stay focused and work through problems rather than getting distracted :tired_face:
 - [ ] Make a concious effort :thumbsup:
+
+https://github.com/3lueHippo
