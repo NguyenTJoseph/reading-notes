@@ -5,4 +5,4 @@ _Growth mindset_ is the belief that through work and a strong will you can devel
 ## 3 Reminders
 - [ ] Take small steps and take your time when solving problems
 - [ ] Stay focused and work through problems rather than getting distracted
-- [ ] Make a concious effort
+- [ ] Make a concious effort :+1:
