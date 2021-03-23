@@ -1,7 +1,7 @@
 # Author
 Joseph Nguyen
 # Introduction
-My name is Joseph, I live in Seattle and have 2 dogs. I love going out and doing things in the outdoors such as going on walks, biking, snowboarding, and being out on the water. My brother and my mother are both software developers and I always had an afinity towards tech and am excited to persue a career in it.
+My name is Joseph, I live in Seattle and have 2 dogs. I love going out and doing things in the outdoors such as going on walks, biking, snowboarding, and being out on the water. My brother and my mother are both software developers and I have always had an afinity towards tech and am excited to persue a career in it.
 # reading-notes
 ## Growth Mindset
 **What is growth mindset?**
