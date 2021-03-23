@@ -7,5 +7,5 @@ You can use Markdown to **bold** text.
 
 This can be done by:
 ```
-**(text)**
+**text**
 ```
