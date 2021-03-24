@@ -24,3 +24,6 @@ Some third party text editors include:
 - Atom
 - Brackets 
 - Sublime Text
+
+## IDE (Integrated Development Environment)
+An IDE is a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
