@@ -7,3 +7,20 @@ Important features to look for in a text editor include:
 - syntax highlighting 
 - a nice variety of themes (to reduce eye strain and fatigue)
 - the ability to choose from a healthy selection of extensions available when you need them.
+
+## Text Editor Options
+
+### First Party
+Your computer already has a text editor but these text editors are pretty bare bones.
+
+### Third Party
+Third party text editors have extra features than the one already on your computer. There is a wide selection of these and the right one is chosen through personal preference. 
+
+Some third party text editors include:
+- Notepad++
+- Text Wrangler
+- BB Edit
+- Visual Studio Code
+- Atom
+- Brackets 
+- Sublime Text
