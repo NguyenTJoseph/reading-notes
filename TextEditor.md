@@ -78,3 +78,16 @@ drwxr-xr-x  2 ryan users 4096 May 05 17:25 alsa.d
 ...
 user@bash:
 ```
+- **Line 1**  We ran ls in it's most basic form. It listed the contents of our current directory.
+- **Line 4**  We ran ls with a single command line option ( -l ) which indicates we are going to do a long listing. A long listing has the following:
+First character indicates whether it is a normal file ( - ) or directory ( d )
+Next 9 characters are permissions for the file or directory (we'll learn more about them in section 6).
+The next field is the number of blocks (don't worry too much about this).
+The next field is the owner of the file or directory (ryan in this case).
+The next field is the group the file or directory belongs to (users in this case).
+Following this is the file size.
+Next up is the file modification time.
+Finally we have the actual name of the file or directory.
+- **Line 10** We ran ls with a command line argument ( /etc ). When we do this it tells ls not to list our current directory but instead to list that directories contents.
+- **Line 13** We ran ls with both a command line option and argument. As such it did a long listing of the directory /etc.
+- **Lines 12 and 18** just indicate that I have cut out some of the commands normal output for brevities sake. When you run the commands you will see a longer listing of files and directories.
