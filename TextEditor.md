@@ -141,3 +141,19 @@ user@bash: cd Holiday\ Photos
 user@bash: pwd
 /home/ryan/Documents/Holiday Photos
 ```
+### Hidden Files
+Hidden files when listed will begin with a . and to create a hidden file add a . to the beginning of its name. To view hidden files use the command:
+```
+ls -a
+```
+## Summary 
+```
+file
+obtain information about what type of file a file or directory is.
+ls -a
+List the contents of a directory, including hidden files.
+```
+## List of Resources 
+[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
