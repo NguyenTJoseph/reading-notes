@@ -43,3 +43,38 @@ user@bash:
 - Line 1 presents us with a prompt ( user@bash ). After that we entered a command ( ls ). Typically a command is always the first thing you type. After that we have what are referred to as command line arguments ( -l /home/ryan ). Important to note, these are separated by spaces (there must be a space between the command and the first command line argument also). The first command line argument ( -l ) is also referred to as an option. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - ).
 - Lines 2 - 5 are output from running the command. Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error.
 - Line 6 presents us with a prompt again. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running (you will learn later how to deal with this).
+
+## Shell/Bash
+**Shell**
+
+The shell is the part of the operating system that defines how the terminal will behave and look after running a command. The most common shell is **bash** (Bourne again shell). You can see what shell you are using with the echo command. 
+
+## Navigating 
+**PWD** Printed Working Directory 
+
+This command tells you what your current or present working directory is.
+
+**LS**
+This command tells you what is in the current directory.
+```
+ls [options] [location]
+```
+```
+user@bash: ls
+bin Documents public_html
+user@bash: ls -l
+total 3
+drwxr-xr-x  2 ryan users 4096 Mar 23 13:34 bin
+drwxr-xr-x 18 ryan users 4096 Feb 17 09:12 Documents
+drwxr-xr-x  2 ryan users 4096 May 05 17:25 public_html
+user@bash: ls /etc
+a2ps.cfg aliases alsa.d cups fonts my.conf systemd
+...
+user@bash: ls -l /etc
+total 3
+-rwxr-xr-x  2 root root 123 Mar 23 13:34 a2ps.cfg
+-rwxr-xr-x 18 root root 78 Feb 17 09:12 aliases
+drwxr-xr-x  2 ryan users 4096 May 05 17:25 alsa.d
+...
+user@bash:
+```
