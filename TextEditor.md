@@ -118,8 +118,26 @@ cd
 Change Directories - ie. move to another directory.
 ```
 ## Files 
-File extentions denote what type of file it is. The following are common extensions:
+File extentions denote what type of file it is. File extentions are important in systems like Windows but are unnecessary to specify in Linux. The following are common extensions:
 
 - file.exe - an executable file, or program.
 - file.txt - a plain text file.
 - file.png, file.gif, file.jpg - an image.
+
+To find what type of file a file is use the command:
+```
+file [path]
+```
+Operating systems such as Windows is not case sensetive. However, Linux is and you must match file names appropriately.
+
+To deal with spaces in the name of a file either use quotes or escape characters. For example:
+``` 
+user@bash cd: 'Holiday Photos'
+user@bash: pwd
+/home/ryan/Documents/Holiday Photos
+```
+```
+user@bash: cd Holiday\ Photos
+user@bash: pwd
+/home/ryan/Documents/Holiday Photos
+```
