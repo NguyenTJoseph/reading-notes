@@ -117,3 +117,9 @@ List the contents of a directory.
 cd
 Change Directories - ie. move to another directory.
 ```
+## Files 
+File extentions denote what type of file it is. The following are common extensions:
+
+- file.exe - an executable file, or program.
+- file.txt - a plain text file.
+- file.png, file.gif, file.jpg - an image.
