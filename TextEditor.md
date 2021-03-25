@@ -154,6 +154,6 @@ ls -a
 List the contents of a directory, including hidden files.
 ```
 ## List of Resources 
-[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+- [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
