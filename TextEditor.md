@@ -91,3 +91,12 @@ Finally we have the actual name of the file or directory.
 - **Line 10** We ran ls with a command line argument ( /etc ). When we do this it tells ls not to list our current directory but instead to list that directories contents.
 - **Line 13** We ran ls with both a command line option and argument. As such it did a long listing of the directory /etc.
 - **Lines 12 and 18** just indicate that I have cut out some of the commands normal output for brevities sake. When you run the commands you will see a longer listing of files and directories.
+## Paths
+A path is a means to get to a particular file or directory on the system. Files are in a hierarchical structure. At the very top of the structure is what's called the root directory. It is denoted by a single slash ( / ). It has subdirectories, they have subdirectories and so on. Files may reside in any of these directories.
+### Absolute & Relative Paths
+**Absolute paths** specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
+
+**Relative paths** specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+
+
+
