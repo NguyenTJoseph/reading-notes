@@ -102,7 +102,18 @@ A path is a means to get to a particular file or directory on the system. Files 
 - ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
 - . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
 - .. (dotdot) - This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
-##Moving around
+- **Tab Completion** When you start typing a path (anywhere on the command line, you're not just limited to certain commands) you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities. You may then continue typing and hit Tab again and it will again try to auto complete for you.
+## Moving around
 In order to move around in the system we use a command called cd which stands for change directory. 
 ```
 cd [location]
+```
+## Essentials Summary
+```
+pwd
+Print Working Directory - ie. Where are we currently.
+ls
+List the contents of a directory.
+cd
+Change Directories - ie. move to another directory.
+```
