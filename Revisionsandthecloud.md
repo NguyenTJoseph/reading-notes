@@ -6,7 +6,7 @@ Local version control stores different versions of your project/files on your di
 ### Centralized Version Control
 A single server stores all changes and file versions, which can be accessed by various clients. This streamlined the collaboration process (by eliminating the need to involve all local databases), allowed programmers to have more knowledge of team members’ activities with certain files, and gave administrators much more control over divvying up revision privileges.
 ### Distributed Version Control
-This stores mirrored coppies of changes and file versions across multiple servers.
+This stores mirrored copies of changes and file versions across multiple servers.
 ## Git
 Git is software that tracks changes of files, usually used for coordinating work among programmers collaboratively developing source code during software development. These are held in snapshots that are saved with commits. 
 ### States
