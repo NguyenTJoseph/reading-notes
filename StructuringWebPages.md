@@ -133,5 +133,6 @@ Meta lies inside the head element and contains information about the web page. I
 - author
 - pragma
 - expires
-## EScape Characters
+
+## Escape Characters
 Some characters are reserved for HTML so if you wish to display these charecters you need to use escape character otherwise known as escape codes. You can also add special characters such as copyright symbol this way.
