@@ -1,7 +1,7 @@
 # Structuring Web Pages
 ## Process and Design
 ### Who is the site for?
-Understanding the audience for your website is important. Websites should be designed for the traget audience. Look for the individuals that will use your site and think about that demographic. 
+Understanding the audience for your website is important. Websites should be designed for the target audience. Look for the individuals that will use your site and think about that demographic. 
 - Age Range
 - Sex
 - Country
@@ -26,22 +26,22 @@ Think about why people are coming and what they want to do on your website. What
 After figuring out what you need on your site, a site map helps you organize and sort what pages you want and the information you want on those pages.
 
 ## Wireframes
-Wireframes are simple sketches of the page showing the elements and information you are going to put on there. It shows a heirarchy of the information and how much space it might need.
+Wireframes are simple sketches of the page showing the elements and information you are going to put on there. It shows a hierarchy of the information and how much space it might need.
 ## Visual Design 
 Visual design communicates to your users by organizing a prioritizing information on a page to help them understand importance and order of information. Elements to keep in mind will designing a website include:
 - Content
-- Prioritzation
+- Prioritization
 - Organization
-- Visual Heirarchy
+- Visual Hierarchy
 - Grouping 
 - Similarity
 
 ## HTML Structure Summary
 - HTML pages are text documents.
 - HTML uses tags that are in angled brackets.
-- Tags are also reffered to as elements.
+- Tags are also referred to as elements.
 - There are usually opening and closing tags.
-- Opening tags can have attributes that gives infromation about the content inside.
+- Opening tags can have attributes that gives information about the content inside.
 - Attributes have a name and a value
 
 ## HTML 5 Layout
@@ -57,17 +57,17 @@ Visual design communicates to your users by organizing a prioritizing informatio
 - <div>
 ```
 ## Extra Markup 
-Web pages should begin with a DOCTYPE decloration to tell the browser what version of HTML the page uses but it will typically work without it.
+Web pages should begin with a DOCTYPE declaration to tell the browser what version of HTML the page uses but it will typically work without it.
 
 ### Comments
 
-Comments can help fimiliarize others with your code or remind yourself. To add a comment in HTML that users will not see:
+Comments can help familiarize others with your code or remind yourself. To add a comment in HTML that users will not see:
 ```
 <!-- "comment" -->
 ```
 ### Attributes
 #### ID Attribute
-ID attributes allows you to identify an element from other elements. It should start with a letter or underscore and shouldnt have the same value for their ID.
+ID attributes allows you to identify an element from other elements. It should start with a letter or underscore and shouldn't have the same value for their ID.
 ```
 <html>
 <body>
@@ -135,4 +135,4 @@ Meta lies inside the head element and contains information about the web page. I
 - expires
 
 ## Escape Characters
-Some characters are reserved for HTML so if you wish to display these charecters you need to use escape character otherwise known as escape codes. You can also add special characters such as copyright symbol this way.
+Some characters are reserved for HTML so if you wish to display these characters you need to use escape character otherwise known as escape codes. You can also add special characters such as copyright symbol this way.
