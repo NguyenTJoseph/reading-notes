@@ -56,3 +56,82 @@ Visual design communicates to your users by organizing a prioritizing informatio
 - <figure>/<figurecaption>
 - <div>
 ```
+## Extra Markup 
+Web pages should begin with a DOCTYPE decloration to tell the browser what version of HTML the page uses but it will typically work without it.
+
+### Comments
+
+Comments can help fimiliarize others with your code or remind yourself. To add a comment in HTML that users will not see:
+```
+<!-- "comment" -->
+```
+### Attributes
+#### ID Attribute
+ID attributes allows you to identify an element from other elements. It should start with a letter or underscore and shouldnt have the same value for their ID.
+```
+<html>
+<body>
+
+<h1 id="myHeader">Hello World!</h1>
+<button onclick="displayResult()">Change text</button>
+
+<script>
+function displayResult() {
+  document.getElementById("myHeader").innerHTML = "Have a nice day!";
+}
+</script>
+
+</body>
+</html>
+```
+#### Class Attribute
+A class attribute is similar to a **id attribute** but instead of identifying one element a class attribute identifies several elements.
+### Block Elements
+Block elements are denoted by how they will always appear as they are starting on a new line. Examples include:
+```
+- <h1>
+- <p>
+- <ul>
+- <li>
+```
+### Inline Elements
+Inline elements look as if they are continuing on the same line as the previous element. Examples of these elements are:
+```
+- <a>
+- <b>
+- <em>
+- <img>
+```
+### Grouping Text & Elements 
+You can group elements together in a **block** using:
+```
+<div>
+```
+You can group elements inline with:
+```
+<span>
+```
+### Iframes
+Iframes allow you to implement another website into your page. Most commonly used for implementing things like Google Maps. You will need to add attributes to you iframe. These include:
+- src - specifies URL
+- height - height of iframe
+- width - width of iframe
+- seamless
+```
+<iframe
+    width="450"
+    height="350"
+    src="http://maps.google.com"
+</iframe>
+```
+## Information About Page
+### Meta
+Meta lies inside the head element and contains information about the web page. It is not visible to users and can be anything but commonly attributes are:
+- descriptions
+- keywords
+- robots
+- author
+- pragma
+- expires
+## EScape Characters
+Some characters are reserved for HTML so if you wish to display these charecters you need to use escape character otherwise known as escape codes. You can also add special characters such as copyright symbol this way.
