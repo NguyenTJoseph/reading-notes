@@ -46,6 +46,7 @@ Visual design communicates to your users by organizing a prioritizing informatio
 
 ## HTML 5 Layout
 ### Elements
+```
 - <header>/<footer>
 - <nav>
 - <article>
@@ -54,3 +55,4 @@ Visual design communicates to your users by organizing a prioritizing informatio
 - <hgroup>
 - <figure>/<figurecaption>
 - <div>
+```
