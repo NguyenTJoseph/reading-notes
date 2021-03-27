@@ -6,6 +6,7 @@ My name is Joseph, I live in Seattle and have 2 dogs. I love going out and doing
 - [Learning Markdown](https://3luehippo.github.io/reading-notes/Learning-Markdown)
 - [Text Editor](https://3luehippo.github.io/reading-notes/TextEditor)
 - [Revisions and the Cloud](https://3luehippo.github.io/reading-notes/Revisionsandthecloud)
+- [Structuring Web Pages](https://3luehippo.github.io/reading-notes/StructuringWebPages)
 ## Growth Mindset
 **What is growth mindset?**
 _Growth mindset_ is the belief that through work and a strong will you can develop and grow to overcome obstacles and be more adept at solving problems. This is contrasted by a _fixed mindset_ that views the ability to overcome obstacles as a trait that cannot be learned, in turn, leading to frustration and giving up.
