@@ -6,6 +6,7 @@
 
 ## Color
 There are foreground and background colors. Foreground changes the text while background sets the background boxes color.
+
 **RGB**
 
 **Hex Codes**
