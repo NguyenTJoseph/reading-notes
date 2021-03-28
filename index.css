@@ -1,0 +1,11 @@
+header {
+    background-color:#D4634A;
+    padding: 25px;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    h1 {
+        font-family: ariel;
+        font-size: 30px;    
+    }
+  }
