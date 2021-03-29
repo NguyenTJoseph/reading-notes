@@ -1,4 +1,4 @@
-# Javasrcipt and Web Pages
+# Javascript and Web Pages
 ## Progressive Enhancement
 A popular way of building websites where you start with HTML then you add CSS then Javascript. Each layer of the website progressively enhancing the whole.
 ## Linking Javascript to HTML
