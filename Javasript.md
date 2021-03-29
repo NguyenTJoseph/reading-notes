@@ -13,3 +13,34 @@ document.write('Good afternoon')
 The document is the object and the method is everything else that follows.
 
 Javascript runs where it is written in the code. It is best to have your Javascript code in a separate file but it can be incorporated. 
+## Statements
+A statement is an instruction or step. Statements should end with a semicolon.
+## Comments
+Single line: //
+Multi line: /* text */
+## Variables
+Variables allows the script to temporarily store information. The data stored in a variable can change.
+### Declare Variable
+```
+var quantity;
+```
+Rules for Naming Variables
+
+- Must begin with letter, dollar sign($), or underscore(_).
+- You cant use a period(.) or a dash(-) in the name.
+- You cannot use reserved words such as **var**.
+- Variables are case sensitive. 
+- Use a name that describes the information.
+- If the variable name is more than one word it is written in camelCase.
+### Assign Value
+```
+quantity = 3;
+```
+## Data Types
+### Numeric Data
+Data with numbers
+### String Data Type
+Data with word or letters and characters. These are put between quotes.
+### Boolean Data Type
+True or False
+
