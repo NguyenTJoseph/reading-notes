@@ -1,7 +1,7 @@
-# Javasript and Web Pages
-## Progressive Enhancment
+# Javasrcipt and Web Pages
+## Progressive Enhancement
 A popular way of building websites where you start with HTML then you add CSS then Javascript. Each layer of the website progressively enhancing the whole.
-## Linking Javasript to HTML
+## Linking Javascript to HTML
 ``` 
 <script src= "javascript file.js"></script>
 ```
@@ -19,14 +19,14 @@ A statement is an instruction or step. Statements should end with a semicolon.
 Single line: //
 Multi line: /* text */
 ## Variables
-Variables allows the script to temporarily store information. The data stored in a variable can change.
+Variables allow the script to temporarily store information. The data stored in a variable can change.
 ### Declare Variable
 ```
 var quantity;
 ```
 Rules for Naming Variables
 
-- Must begin with letter, dollar sign($), or underscore(_).
+- Must begin with a letter, dollar sign($), or underscore(_).
 - You cant use a period(.) or a dash(-) in the name.
 - You cannot use reserved words such as **var**.
 - Variables are case sensitive. 
@@ -40,7 +40,7 @@ quantity = 3;
 ### Numeric Data
 Data with numbers
 ### String Data Type
-Data with word or letters and characters. These are put between quotes.
+Data with words or letters and characters. These are put between quotes.
 ### Boolean Data Type
 True or False
 
