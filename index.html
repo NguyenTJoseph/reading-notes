@@ -9,7 +9,14 @@
     </head>
     <body>
         <header>
-            <h1>Hungry Recipes</h1> 
+            <h1 class="Title">Hungry Recipes</h1> 
+            
+            <section class="pageGreeting">
+               <Script src="js2.js"></Script>
+            </section>
+            <section class="headerName">
+                <div id="popup"></div>
+             </section>
                 <nav>
                     <ul>
                         <li><a href="">Home</a></li>
@@ -18,8 +25,14 @@
                         <li><a href="">Favorites</a></li>
                         <li><a href="">Contact Us</a></li>
                     </ul>
+                    <button id="signInButton" onclick="signIn()">Sign In</button>
+            <form>
+                  <input id="myInput" type="text" name="name" placeholder="Name">
+                
+            </form>
                 </nav>
         </header>
+        <div id="clock"></div>
         <section class="FeaturedCourses">
             <h1>Featured Courses</h1>
             <article>
@@ -77,6 +90,7 @@
             </article>
         </section>
         </aside>
+        <script src="js.js"></script>
     </body>
 
 </html>
