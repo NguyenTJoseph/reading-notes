@@ -9,7 +9,7 @@
 A bit is the smallest information a computer can store and is a state of on or off.
 
 ### Binary Number System
-Each position is a the previous multiplied by 2 stating at 1. You take each of these bits and multiply them by the multiple of 2 and add them together.
+Each position is the previous multiplied by 2 starting at 1. You take each of these bits and multiply them by the multiple of 2 and add them together.
 To get the number 9:
 1  0  0  1
 8  4  2  1
