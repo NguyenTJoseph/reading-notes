@@ -31,7 +31,7 @@ var area = 3 * 2;
 - Comparison
 - Logical
 
-## Funtion
+## Function
 Group a series of statements together to perform a task. Useful for reusing instead of repeating all the statements again.
 ``` 
 function functionName() {
