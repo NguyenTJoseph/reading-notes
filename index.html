@@ -49,6 +49,13 @@
                         <li>Total Time: 45 minutes</li>
                     </ul>   
                 </section>
+                <section class="Rating2">
+                    <button id="userSumbitRating2" onclick="submit2()">Submit</button>
+                    <form>
+                        <input id="userRating2" type="number" min="1" max="5" name="Rating" placeholder="Rate this recipes 1-5">
+                    </form>
+                    <div id="Stars2"></div>
+                </section>
             </article>
             <article>
                 <figure>
@@ -63,7 +70,13 @@
                         <li>Yield: 4 servings</li>
                         <li>Total Time: 25 minutes</li>
                     </ul>   
-                    
+                </section>
+                <section class="Rating">
+                    <button id="userSumbitRating" onclick="submit()">Submit</button>
+                    <form>
+                        <input id="userRating" type="number" min="1" max="5" name="Rating" placeholder="Rate this recipes 1-5">
+                    </form>
+                    <div id="Stars"></div>
                 </section>
             </article>
         </section>
@@ -92,5 +105,4 @@
         </aside>
         <script src="js.js"></script>
     </body>
-
 </html>
