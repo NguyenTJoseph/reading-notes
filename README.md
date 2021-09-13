@@ -8,7 +8,7 @@ My name is Joseph, I live in Seattle and have 2 dogs. I love going out and doing
 - [Revisions and the Cloud](https://3luehippo.github.io/reading-notes/Revisionsandthecloud)
 - [Structuring Web Pages](https://3luehippo.github.io/reading-notes/StructuringWebPages)
 # Table of Contents Code 201
-- [Blank]()
+- [Class-01](https://3luehippo.github.io/reading-notes/Code%20201%20Notes/Class-01)
 - [Blank]()
 - [Blank]()
 - [Blank]()
