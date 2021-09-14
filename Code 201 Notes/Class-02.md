@@ -11,7 +11,7 @@ CSS takes HTML elements and puts it in a box and uses rules to dictate how it sh
 
 ## Basic JavaScript Instructions
 
-### Statementsts 
+### Statements
 - Statements are individual instructions or steps. They will end with a semicolon.
 Comments are done with to backslashes. // Comment
 
@@ -41,7 +41,7 @@ var colors = new array( 'white',
 ```
 ### Expressions 
 Expressions evaluate into a single value. They can assign a single value or use two or more values to give one value.
-Operators expressions to create a single value from multiple by things like assigning value, perform math, or combining strings.
+Operators expressions create a single value from multiple by things like assigning value, perform math, or combining strings.
 
 ## Decisions and Loops
 Conditional statements allow code to make decisions on what it should do. 
