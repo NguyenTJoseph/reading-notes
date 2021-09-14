@@ -6,6 +6,7 @@ CSS takes HTML elements and puts it in a box and uses rules to dictate how it sh
 ```p { font-family: Arial; }```
 - Selector is "p"
 - Decleration is "font-family: Arial;"
+
 ## Basic JavaScript Instructions
 
 ### Statementsts 
