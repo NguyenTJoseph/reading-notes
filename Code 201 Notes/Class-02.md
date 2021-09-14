@@ -10,6 +10,7 @@ CSS takes HTML elements and puts it in a box and uses rules to dictate how it sh
 ### Statementsts 
 - Statements are individual instructions or steps. They will end with a semicolon.
 Comments are done with to backslashes. // Comment
+
 ### Variables 
 Variables temporarily store data/information.
 Declaring variables:
@@ -23,4 +24,5 @@ Arrays are variables that store more than one value.
 Creating an array:
 ```var colors;
 colors = ['white', 'black', 'custom'];```
+
 
