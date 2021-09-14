@@ -31,11 +31,12 @@ Arrays are variables that store more than one value.
 Creating an array:
 
 ```var colors;
-colors = ['white', 'black', 'custom']; ```
-
+colors = ['white', 'black', 'custom'];
+```
 ``` var colors = new array( 'white',
                             'black',
-                            'custom'); ```
+                            'custom'); 
+```
 ### Expressions 
 Expressions evaluate into a single value. They can assign a single value or use two or more values to give one value.
 Operators expressions to create a single value from multiple by things like assigning value, perform math, or combining strings.
