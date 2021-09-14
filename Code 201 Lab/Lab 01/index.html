@@ -1,14 +1,59 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> </title>
+        <title> Mad Libs </title>
     </head>
 
 
 <body>
     <header>
-        <h1> </h1>
+        <h1> Fun Mad Libs</h1>
     </header>
-</body>
+    <h2> The Rollie Pollie Problem</h2>
+   <main>
+    <p id="text"> A(An) _________ *noun* fell from the tree. It _________ *adverb* rolled down the hill where it ran over (a) _________. *noun* But everyone was okay that _________ *adjective* day.
 
+    </p>
+</main>
+    <button id="three" type="button" onclick="start()"> Start</button>
+    <style> 
+        * {
+        font-family:Comic Sans MS, Comic Sans, cursive;
+      } p {
+          top: auto;
+          text-align: center;
+          font-size: 32px;
+      } header {
+          font-size: 25px;
+          background-color: rgba(255, 166, 0, 0.719);
+          padding: 10px;
+      }
+        h2 {
+            text-align: center;
+            font-size: 48px;
+        }
+    
+      
+      </style>
+
+
+</body>
+<script>
+    function start() {
+   let nounOne = "_________";
+    nounOne = prompt('Give a noun');
+    console.log(nounOne);
+    let adverb = "_________";
+    adverb = prompt('Give an adverb');
+    console.log(adverb);
+    let nounTwo = "_________";
+    nounTwo = prompt('Give a noun');
+    console.log(nounTwo);
+    let adjective = "_________";
+    adjective = prompt('Give an adjective');
+    console.log(adjective);
+
+    document.getElementById('text').innerText = 'A(An) ' + nounOne + ' fell from the tree. It ' + adverb + ' rolled down the hill where it ran over (a) ' + nounTwo + '. But everyone was okay that ' + adjective + ' day.';
+   }
+</script>
 </html>
