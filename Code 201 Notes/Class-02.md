@@ -30,10 +30,12 @@ Data can be:
 Arrays are variables that store more than one value.
 Creating an array:
 
-```var colors;
+```
+var colors;
 colors = ['white', 'black', 'custom'];
 ```
-``` var colors = new array( 'white',
+``` 
+var colors = new array( 'white',
                             'black',
                             'custom'); 
 ```
