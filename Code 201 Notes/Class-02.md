@@ -7,6 +7,7 @@ CSS takes HTML elements and puts it in a box and uses rules to dictate how it sh
 - Selector is "p"
 - Decleration is "font-family: Arial;"
 ## Basic JavaScript Instructions
+
 ### Statementsts 
 - Statements are individual instructions or steps. They will end with a semicolon.
 Comments are done with to backslashes. // Comment
