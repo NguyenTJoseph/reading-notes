@@ -57,3 +57,4 @@ function functionName(width, height) {
 
 var wallOne = functionName(width, height);
 var wallTwo = functionName(width, height);
+```
