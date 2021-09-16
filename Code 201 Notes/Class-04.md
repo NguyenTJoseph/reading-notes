@@ -83,6 +83,7 @@ Local Variables
 - Created inside function
 - Cannot be accessed outside the function
 - Removed as soon as function is done
+        
 Global Variables 
 - Created outside function
 - Stored in memory while web page is loaded (Take up more memory)
@@ -90,6 +91,7 @@ Global Variables
 ## 6 Reasons for Pair Programming
 Driver
 - Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code.
+        
 Navigator
 - The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
 Reasons pair programming is good:
