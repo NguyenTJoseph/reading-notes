@@ -83,6 +83,7 @@ Local Variables
 - Created inside function
 - Cannot be accessed outside the function
 - Removed as soon as function is done
+        
 Global Variables 
 - Created outside function
 - Stored in memory while web page is loaded (Take up more memory)
