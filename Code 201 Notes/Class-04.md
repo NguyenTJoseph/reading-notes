@@ -10,7 +10,7 @@ To link specific parts of the same page or different pages by using the id attri
     <a href:"http://www.imdb.com/ #bottom">Bottom<a> <!--Different Page-->
 ```
 ## Layout
-You can use the <div> element to group all the elements contained within it.
+You can use the ```<div>``` element to group all the elements contained within it.
 To change the positioning of elements you need to specify if it is relative, absolute, or fixed positioning. If you don't specify the browser will display normal flow. Z-index specifies how close an element is to the front for overlapping elements.
 ### Float
 Float places an element on the left or right side of its container, allowing text and inline elements to wrap around it. You should define the width of the element when you use float.
