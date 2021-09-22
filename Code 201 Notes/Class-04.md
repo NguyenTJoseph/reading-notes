@@ -32,9 +32,11 @@ You can make multi column layouts with:
 - width
 - float
 - margin
+        
 Layouts can be:
 - fixed width
 - liquid
+        
 Typical Conventions
 - 960 - 1000 pixels wide
 - top 600 pixels denote what site is about without scrolling
