@@ -9,7 +9,8 @@ if (window.addEventListener) {
   window.addEventListener("storage", handle_storage, false);
 } else {
   window.attachEvent("onstorage", handle_storage);
-};```
+};
+```
 
 PROPERTY	TYPE	DESCRIPTION
 key	        string	the named key that was added, removed, or modified
@@ -32,3 +33,4 @@ function saveGameState() {
     return true;
 }
 ```
+
