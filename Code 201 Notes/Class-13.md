@@ -11,13 +11,13 @@ if (window.addEventListener) {
   window.attachEvent("onstorage", handle_storage);
 };
 ```
-
+```
 PROPERTY	TYPE	DESCRIPTION
 key	        string	the named key that was added, removed, or modified
 oldValue	any	    the previous value (now overwritten), or null if a new item was added
 newValue	any	    the new value, or null if an item was removed
 url*	    string	the page which called a method that triggered this change
-
+```
 ## Example
 ```js
 function saveGameState() {
