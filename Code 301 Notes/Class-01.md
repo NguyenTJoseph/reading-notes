@@ -11,7 +11,7 @@ A component is a software object that encapsulates certain functionality and is 
 - Encapsulated 
 - Independent 
 #### What are the advantages of using component-based architecture?
-= Ease of deployment
+- Ease of deployment
 - Reduced cost
 - Ease of development
 - Reusable
