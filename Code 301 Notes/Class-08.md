@@ -24,3 +24,7 @@
 - 201
 11. What status code does a successful DELETE request return?
 - 202
+
+## RegExr
+1. How would you match your name using RegEx?
+- /name/g
