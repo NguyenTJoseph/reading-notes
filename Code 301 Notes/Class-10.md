@@ -29,4 +29,4 @@
 5. What is a breakpoint?
 - The breakpoint is where your code stops running or breaks
 6. What does the word ‘debugger’ do in your code?
-It can let you achieve a breakpoint where the statement is
+- It can let you achieve a breakpoint where the statement is
